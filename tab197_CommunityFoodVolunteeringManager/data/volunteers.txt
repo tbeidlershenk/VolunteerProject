@@ -1,0 +1,10 @@
+1;Flores;Ana;32;40.599281;-80.224267;812 17th Street Ambridge;Pittsburgh;PA;15003;Tuesday;12:00;15:30;16;yes;0
+2;Wilkins;Al;35;40.461914;-80.033676;3872 Losh Lane;Pittsburgh;PA;15213;Wednesday;10:00;12:00;15.8;no;0
+3;Baldwin;Faye;43;40.490341;-80.002525;4431 Lucky Duck Drive;Pittsburgh;PA;15210;Tuesday;15:00;20:30;40;no;0
+4;Sullivan;Tony;54;40.459320;-79.823044;697 Stiles Street;Pittsburgh;PA;15215;Saturday;12:15;15:15;30.5;no;0
+5;Dennis;Derek;16;40.520950;-80.015015;2627 Pine Street;Pittsburgh;PA;15212;Tuesday;9:00;11:30;15.5;no;0
+6;Johnson;Alexia;44;40.507153;-79.947800;2288 Stiles Street;Pittsburgh;PA;15213;Monday;8:00;10:30;16;yes;200
+7;Sherman;Victor;31;40.543884;-79.923630;213 Beechwood Drive;Pittsburgh;PA;15213;Friday;16:00;19:00;19;no;100
+8;Conner;Rudolph;59;40.473148;-79.968452;1222 Stuart Street;Pittsburgh;PA;15212;Thursday;12:00;18:30;13;no;50
+9;Phelps;Belinda;36;40.469924;-79.999037;1231 Jacobs Street;Pittsburgh;PA;15210;Sunday;7:30;12:30;4.5;no;200
+10;Murphy;Kate;66;40.447769;-79.920280;52 Frank Avenue;Pittsburgh;PA;15215;Thursday;9:00;15:45;12;no;50
